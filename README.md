@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/arccoder?theme=dark&font=Happy%20Monkey)
+
 <!--
 **arccoder/arccoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
