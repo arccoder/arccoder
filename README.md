@@ -2,6 +2,10 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/arccoder?theme=dark&font=Happy%20Monkey&ext=heatmap)](https://leetcode.com/u/arccoder/)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/2" alt="Recent Article 2"> 
+
 <!--
 **arccoder/arccoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
