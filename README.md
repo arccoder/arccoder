@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arccoder?theme=dark&font=Happy%20Monkey&ext=heatmap)](https://leetcode.com/u/arccoder/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arccoder?theme=dark&font=Happy%20Monkey)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arccoder/1" alt="Recent Article 1">
